@@ -1,0 +1,31 @@
+/* Root app container */
+.app {
+  max-width: 900px;
+  margin: 0 auto; /* Center horizontally */
+  padding: 20px;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, sans-serif;
+  display: flex;
+  flex-direction: column;
+  align-items: center; /* Center children horizontally */
+  width: 100%; /* Ensure full width within parent */
+}
+
+/* Header styling */
+.app-header {
+  text-align: center;
+  margin-bottom: 20px;
+  width: 100%; /* Full width of .app */
+}
+
+.app-header h1 {
+  font-size: 2.5rem !important; /* Override index.css */
+  color: #00ffa2; /* Neon green vibes */
+  margin: 0;
+}
+
+.app-header h2 {
+  font-size: 1.2rem;
+  color: #666;
+  font-weight: normal;
+  margin: 5px 0 0;
+}
