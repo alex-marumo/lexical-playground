@@ -1,5 +1,5 @@
 Lexical Playground
-A sleek, client-side text editor built with React, TypeScript, and Vite, featuring an AI-powered "Surprise Me" button that drops creative text snippets from OpenAI’s API (Original Idea, the rate limits are killing me😅). Rocking a neon #00ffa2 aesthetic, it’s your cyberpunk writing den, Sh.x.dow!
+A sleek, client-side text editor built with React, TypeScript, and Vite, featuring an AI-powered "Surprise Me" button that drops creative text snippets from OpenAI’s API (doesnt work as intended though, the rate limits are killing me😅). Rocking a neon #00ffa2 aesthetic, it’s your cyberpunk writing den, Sh.x.dow!
 
 Screenshot
 ![alt text](<Screenshot 2025-07-11 130345.png>)
